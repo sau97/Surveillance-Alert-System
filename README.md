@@ -1,2 +1,8 @@
-# Surveillance-Alert-System
-Image Captioning based Surveillance Alert System using CNN (Resnet-50) and LSTM models
+# Surveillance-Alert-System-based-on-Image-Captioning-using-Deep-Learning-Approaches
+This was a Group Project done as part of Coursework for Advanced Machine Learning during Fall Semester 2022 for UT Austin's MS Business Analytics Program.
+
+Image caption generation has emerged as a challenging and important research area following advances in statistical language modeling and image recognition. The generation of captions from images has various practical benefits, ranging from aiding the visually impaired, to enabling the automatic and cost-saving labeling of the millions of images uploaded to the Internet daily. The field also brings together state-of-the-art models in Natural Language Processing and Computer Vision, two major fields in Artificial Intelligence.
+
+This proved to be the motivation for our group to try and come up with a solution that tries to tackle the surveillance business problem. Often, surveillance footage systems involve a person monitoring many screens at a time. In case anything suspicious is observed, the person is expected to respond to it accordingly. However, this creates the need for accurate and dependable multitasking. A single person cannot be expected to reliably view many screens at once and always be on the lookout for suspicious activities. An Image Captioning system that views such images and assigns a caption to it can be deployed to address this very problem. The generated captions can then be used to relay alerts to the concerned stakeholders if the captions contain red-flag words. A particular advantage of such a tool would be that it would be very flexible and the business use case could be changed depending on the users’ requirements.
+
+A detailed Medium article explaining the project: https://medium.com/@rgarg_98817/surveillance-alert-system-a394f28480c6
